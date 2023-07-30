@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ulysse</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">I'm looking for my first job on fullstack or front end</h3>
+
 
 - 🔭 I’m currently working on [Meetsicians](meetsicians.fr)
 
